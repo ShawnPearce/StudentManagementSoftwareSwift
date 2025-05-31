@@ -1,11 +1,12 @@
 ////  main.swift
-//  Assignment1 - Student Management System
-//
+//  Student Management System
+//  1 file
 //  A console application for managing student records,
 //  calculating averages, and determining pass/fail status
 //
-//  Created by Shawn Pearce on 2025-05-26.
-//
+//  Created by Shawn Pearce.
+//  Student ID: 991819655
+//  GitHub: https://github.com/ShawnPearce/MobileComputingA1
 
 import Foundation
 
