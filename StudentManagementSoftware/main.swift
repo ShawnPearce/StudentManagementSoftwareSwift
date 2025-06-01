@@ -7,7 +7,9 @@
 //  Created by Shawn Pearce.
 //  Student ID: 991819655
 //  GitHub: https://github.com/ShawnPearce/MobileComputingA1
-
+/*
+   Through coding this Student Management System in Swift, I learned how to effectively apply object oriented programming concepts, such as to manage structured data like student records. I deepened my understanding of input validation, control flow with loops and conditionals, and how to handle user interaction in a console application. Additionally, I gained experience with error handling and user friendly feedback. The project also reinforced the importance of breaking down functionality into reusable functions to improve clarity and maintainability of the code. I had some struggles with woroking with the Array, but after some time and some patience and a little trial and error I was able to make the program work.
+ */
 import Foundation
 
 // Constants for grade validation
